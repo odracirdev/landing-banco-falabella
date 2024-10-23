@@ -13,3 +13,4 @@ Los participantes aprenderán un flujo de trabajo básico usando **git** y **Git
 - Christyan Montiel
 - Jasmin Chacon
 - Abraham Mendez
+- Natalia Rincón
